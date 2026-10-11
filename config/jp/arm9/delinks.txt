@@ -1,0 +1,7 @@
+    .text       start:0x02000000 end:0x020d5140 kind:code align:32
+    .exception  start:0x020d5140 end:0x020d51ac kind:rodata align:1
+    .exceptix   start:0x020d51ac end:0x020d5308 kind:rodata align:4
+    .rodata     start:0x020d5308 end:0x020ddda0 kind:rodata align:4
+    .ctor       start:0x020ddda0 end:0x020ddda0 kind:rodata align:4
+    .data       start:0x020dddc0 end:0x020f9a40 kind:data align:32
+    .bss        start:0x020f9a40 end:0x02131220 kind:bss align:32
