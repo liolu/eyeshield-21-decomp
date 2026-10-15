@@ -1,0 +1,10 @@
+#include "m2c.h"
+
+extern M2C_UNK data_020fb6b0;
+
+void func_02003358(s32 arg0) {
+    s32 temp_r1;
+
+    temp_r1                                          = arg0 * 0x1C;
+    *((M2C_UNK *) ((s8 *) &data_020fb6b0 + temp_r1)) = *((M2C_UNK *) ((s8 *) &data_020fb6b0 + temp_r1)) + 1;
+}
