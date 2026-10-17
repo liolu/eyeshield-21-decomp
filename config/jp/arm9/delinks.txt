@@ -5286,3 +5286,35 @@ src/auto/func_020d36a0.c:
 src/auto/func_020d4a44.c:
     complete
     .text       start:0x020d4a44 end:0x020d4a60
+
+src/auto/func_02003abc.c:
+    complete
+    .text       start:0x02003abc end:0x02003b70
+
+src/auto/func_02007dd4.c:
+    complete
+    .text       start:0x02007dd4 end:0x02007e1c
+
+src/auto/func_020a0510.c:
+    complete
+    .text       start:0x020a0510 end:0x020a0550
+
+src/auto/func_020b42ac.c:
+    complete
+    .text       start:0x020b42ac end:0x020b4320
+
+src/auto/func_020c2e2c.c:
+    complete
+    .text       start:0x020c2e2c end:0x020c2e70
+
+src/auto/func_020c76d8.c:
+    complete
+    .text       start:0x020c76d8 end:0x020c773c
+
+src/auto/func_020c9ed4.c:
+    complete
+    .text       start:0x020c9ed4 end:0x020c9f38
+
+src/auto/func_020ca26c.c:
+    complete
+    .text       start:0x020ca26c end:0x020ca2ac

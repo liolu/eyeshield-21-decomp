@@ -559,3 +559,10 @@ src/auto/func_020d3678.c 2.0/sp1p5 -O4,p -lang c99 -ipa file -inline on,noauto
 src/auto/func_020d368c.c 2.0/sp1p5 -O4,p -lang c99 -ipa file -inline on,noauto
 src/auto/func_020d36a0.c 2.0/sp1p5 -O4,p -lang c99 -ipa file -inline on,noauto
 src/auto/func_020d4a44.c 1.2/sp2p3
+src/auto/func_02003abc.c 1.2/sp2p3
+src/auto/func_02007dd4.c 1.2/sp2p3
+src/auto/func_020b42ac.c 1.2/sp2p3
+src/auto/func_020c2e2c.c 1.2/sp2p3
+src/auto/func_020c76d8.c 1.2/sp2p3
+src/auto/func_020c9ed4.c 1.2/sp2p3
+src/auto/func_020ca26c.c 1.2/sp2p3
