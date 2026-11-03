@@ -5318,3 +5318,104 @@ src/auto/func_020c9ed4.c:
 src/auto/func_020ca26c.c:
     complete
     .text       start:0x020ca26c end:0x020ca2ac
+
+src/auto/func_02001004.c:
+    complete
+    .text       start:0x02001004 end:0x0200101c
+
+
+src/auto/func_02078504.c:
+    complete
+    .text       start:0x02078504 end:0x0207851c
+
+src/auto/func_020a1638.c:
+    complete
+    .text       start:0x020a1638 end:0x020a1700
+
+src/auto/func_020a1b90.c:
+    complete
+    .text       start:0x020a1b90 end:0x020a1ba8
+
+src/auto/func_020a8898.c:
+    complete
+    .text       start:0x020a8898 end:0x020a88fc
+
+src/auto/func_020a88fc.c:
+    complete
+    .text       start:0x020a88fc end:0x020a895c
+
+src/auto/func_020a8abc.c:
+    complete
+    .text       start:0x020a8abc end:0x020a8b94
+
+src/auto/func_020a921c.c:
+    complete
+    .text       start:0x020a921c end:0x020a9288
+
+src/auto/func_020a947c.c:
+    complete
+    .text       start:0x020a947c end:0x020a953c
+
+src/auto/func_020aa45c.c:
+    complete
+    .text       start:0x020aa45c end:0x020aa50c
+
+src/auto/func_020aa50c.c:
+    complete
+    .text       start:0x020aa50c end:0x020aa610
+
+src/auto/func_020aa610.c:
+    complete
+    .text       start:0x020aa610 end:0x020aa6c0
+
+src/auto/func_020aa6c0.c:
+    complete
+    .text       start:0x020aa6c0 end:0x020aa7b8
+
+src/auto/func_020b3e90.c:
+    complete
+    .text       start:0x020b3e90 end:0x020b3eec
+
+src/auto/func_020b4ea8.c:
+    complete
+    .text       start:0x020b4ea8 end:0x020b50c4
+
+src/auto/func_020b553c.c:
+    complete
+    .text       start:0x020b553c end:0x020b560c
+
+src/auto/func_020b560c.c:
+    complete
+    .text       start:0x020b560c end:0x020b5700
+
+src/auto/func_020b5824.c:
+    complete
+    .text       start:0x020b5824 end:0x020b5890
+
+src/auto/func_020b5890.c:
+    complete
+    .text       start:0x020b5890 end:0x020b59c4
+
+src/auto/func_020b6268.c:
+    complete
+    .text       start:0x020b6268 end:0x020b6374
+
+src/auto/func_020c7688.c:
+    complete
+    .text       start:0x020c7688 end:0x020c76d8
+
+src/auto/func_020cb218.c:
+    complete
+    .text       start:0x020cb218 end:0x020cb32c
+
+src/auto/func_020cb32c.c:
+    complete
+    .text       start:0x020cb32c end:0x020cb378
+
+src/auto/func_020d3578.c:
+    complete
+    .text       start:0x020d3578 end:0x020d3618
+
+src/auto/func_020d3bf8.c:
+    complete
+    .text       start:0x020d3bf8 end:0x020d3c60
